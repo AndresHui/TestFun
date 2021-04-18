@@ -2,9 +2,9 @@
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>Andres' Website</h1>
 
-<p>My first paragraph.</p>
+<p>Using this as a test dummy</p>
 
 </body>
 </html>
